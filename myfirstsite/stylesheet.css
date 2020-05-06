@@ -1,20 +1,39 @@
 /* style sheet */
 body
 {
-	background-color: grey;
+	background: #b3d9ff; 
+
+}
+
+
+h2
+{
+	background-color:#666666;
+font-variant: small-caps;;
+font-family: helvetic;
+text-align: center;
 }
 h1
 {
-	color: rgba(120,200,0,100);
-	font-family:Courier;
-}
-h2
-{color: rgba(120,200,0,100);
-	font-family:Courier;
-	
+	background:#b3b3b3;
+font-variant: small-caps;;
+font-family: helvetic;
+text-align: center;
 }
 
-p
+
+section
 {
-	font-family: Comic Sans MS; 
+	border: solid 1px;
+	margin: 5px auto;
+	width: 50%;
+	display: block;
+	padding: 5px;
+
+
+}
+div
+{
+	background: #b3d9ff;
+
 }
